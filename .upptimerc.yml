@@ -15,6 +15,8 @@ sites:
     url: https://dhz.uni-passau.de/
   - name: GAMS - gams.dh.uni-passau.de
     url: https://gams.dh.uni-passau.de/
+  - name: Webarchive DFG - dh.uni-passau.de/webarchive-dh-dfg
+    url: https://dh.uni-passau.de/webarchive-dh-dfg/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
