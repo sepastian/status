@@ -11,6 +11,8 @@ sites:
     url: https://ersterweltkrieg-bayern-boehmen.uni-passau.de/
   - name: ViSIT Schaufenster - visit.uni-passau.de
     url: https://visit.uni-passau.de/
+  - name: DhZ - dhz.uni-passau.de
+    url: https://dhz.uni-passau.de/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
