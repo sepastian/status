@@ -94,17 +94,17 @@
     "url": "https://gams.dh.uni-passau.de/",
     "icon": "https://favicons.githubusercontent.com/gams.dh.uni-passau.de",
     "slug": "gams-gams-dh-uni-passau-de",
-    "status": "down",
-    "uptime": "51.03%",
-    "uptimeDay": "51.03%",
-    "uptimeWeek": "51.03%",
-    "uptimeMonth": "51.03%",
-    "uptimeYear": "51.03%",
-    "time": 549,
-    "timeDay": 549,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "status": "up",
+    "uptime": "68.82%",
+    "uptimeDay": "68.82%",
+    "uptimeWeek": "68.82%",
+    "uptimeMonth": "68.82%",
+    "uptimeYear": "68.82%",
+    "time": 625,
+    "timeDay": 625,
+    "timeWeek": 625,
+    "timeMonth": 625,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2022-02-02": 9
     }
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/dh.uni-passau.de",
     "slug": "webarchive-dfg-dh-uni-passau-de-webarchive-dh-dfg",
     "status": "down",
-    "uptime": "5.49%",
-    "uptimeDay": "5.49%",
-    "uptimeWeek": "5.49%",
-    "uptimeMonth": "5.49%",
-    "uptimeYear": "5.49%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 407,
     "timeDay": 407,
     "timeWeek": 407,
     "timeMonth": 407,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 11
     }
   }
 ]
