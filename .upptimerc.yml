@@ -5,11 +5,11 @@ repo: status # The name of this repository
 sites:
   - name: Uni Museum - museum.uni-passau.de
     url: https://museum.uni-passau.de
-  - name: Kulturgut - dh.uni-passau.de/kulturgut/
+  - name: Kulturgut - dh.uni-passau.de/kulturgut
     url: https://dh.uni-passau.de/kulturgut/
-  - name: Erster Weltkrieg Bayern-Böhmen - ersterweltkrieg-bayern-boehmen.uni-passau.de/
+  - name: Erster Weltkrieg Bayern-Böhmen - ersterweltkrieg-bayern-boehmen.uni-passau.de
     url: https://ersterweltkrieg-bayern-boehmen.uni-passau.de/
-  - name: ViSIT Schaufenster - https://visit.uni-passau.de/de/
+  - name: ViSIT Schaufenster - visit.uni-passau.de
     url: https://visit.uni-passau.de/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
