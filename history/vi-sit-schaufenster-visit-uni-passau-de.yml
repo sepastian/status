@@ -1,7 +1,7 @@
 url: https://visit.uni-passau.de/
-status: up
-code: 200
-responseTime: 1401
-lastUpdated: 2022-11-17T23:15:10.933Z
+status: down
+code: 502
+responseTime: 877
+lastUpdated: 2022-11-18T02:12:28.330Z
 startTime: Wed Feb 02 2022 09:51:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
