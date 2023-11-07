@@ -1,7 +1,7 @@
 url: https://museum.uni-passau.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-07T17:12:58.945Z
+status: up
+code: 200
+responseTime: 1096
+lastUpdated: 2023-11-07T17:27:44.379Z
 startTime: 2022-02-02T09:51:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
