@@ -22,19 +22,19 @@
     "url": "https://dh.uni-passau.de/kulturgut/",
     "icon": "https://icons.duckduckgo.com/ip3/dh.uni-passau.de.ico",
     "slug": "kulturgut-dh-uni-passau-de-kulturgut",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 606,
-    "timeWeek": 763,
-    "timeMonth": 699,
-    "timeYear": 735,
+    "time": 748,
+    "timeDay": 2989,
+    "timeWeek": 1340,
+    "timeMonth": 845,
+    "timeYear": 748,
     "dailyMinutesDown": {
-      "2024-09-25": 3
+      "2024-09-25": 19
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 690,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2024-09-25": 655,
+      "2024-09-25": 674,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
@@ -173,7 +173,7 @@
     "timeMonth": 707,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-09-25": 655,
+      "2024-09-25": 674,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
