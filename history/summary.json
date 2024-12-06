@@ -4,19 +4,19 @@
     "url": "https://museum.uni-passau.de",
     "icon": "https://icons.duckduckgo.com/ip3/museum.uni-passau.de.ico",
     "slug": "uni-museum-museum-uni-passau-de",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 648,
-    "timeWeek": 989,
-    "timeMonth": 855,
+    "time": 924,
+    "timeDay": 880,
+    "timeWeek": 1004,
+    "timeMonth": 863,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2024-12-06": 4
+      "2024-12-06": 12
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 657,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-12-06": 888,
+      "2024-12-06": 900,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -217,19 +217,19 @@
     "url": "https://dhz.uni-passau.de/",
     "icon": "https://icons.duckduckgo.com/ip3/dhz.uni-passau.de.ico",
     "slug": "dh-z-dhz-uni-passau-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1339,
-    "timeDay": 885,
-    "timeWeek": 1319,
-    "timeMonth": 1311,
-    "timeYear": 1301,
+    "time": 1340,
+    "timeDay": 1128,
+    "timeWeek": 1352,
+    "timeMonth": 1321,
+    "timeYear": 1302,
     "dailyMinutesDown": {
-      "2024-12-06": 2
+      "2024-12-06": 13
     }
   },
   {
@@ -249,7 +249,7 @@
     "timeMonth": 617,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2024-12-06": 888,
+      "2024-12-06": 900,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
